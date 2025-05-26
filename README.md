@@ -41,11 +41,17 @@ The project was developed as part of an internship and showcases skills in **Pyt
 
 
 🔍 Project Highlights:
+
 ✅ Collected real-time BTC data from Binance & CoinGecko.
+
 ✅ Engineered features like moving averages, volatility & Bollinger Bands.
+
 ✅ Built & compared forecasting models: ARIMA, LSTM, XGBoost, Random Forest, Prophet, TFT.
+
 ✅ Performed sentiment analysis using VADER, TextBlob, and BERT on Twitter & news data.
+
 ✅ Developed an interactive dashboard using Dash & Plotly for price trends, risk assessment & forecasts.
+
 ✅ Included real-time risk assessment metrics to support investment decisions.
 
 

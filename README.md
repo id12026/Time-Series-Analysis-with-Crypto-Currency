@@ -98,6 +98,22 @@ Python, scikit-learn, TensorFlow, PyTorch, Plotly Dash, Power BI, NLTK, Transfor
 
 ---
 
+## Screenshots : 
+
+![WhatsApp Image 2025-05-26 at 20 47 35_292edbc9](https://github.com/user-attachments/assets/690b787c-5230-410e-be5c-e466f1ea67d3)
+
+![WhatsApp Image 2025-05-26 at 20 47 35_bbc979c4](https://github.com/user-attachments/assets/f6b80716-983b-4fbd-82f1-06636c1b829a)
+
+![WhatsApp Image 2025-05-26 at 12 54 31_a9149846](https://github.com/user-attachments/assets/c444e9ed-b47b-4649-b8d4-666fd61b3606)
+
+![WhatsApp Image 2025-05-26 at 12 59 14_7966b6ec](https://github.com/user-attachments/assets/f8495cd0-a5c0-4c68-8d2b-6241af348a3e)
+
+![WhatsApp Image 2025-05-26 at 12 59 31_20c667ac](https://github.com/user-attachments/assets/645360bf-04a3-4762-8612-79ff50066ae1)
+
+![image](https://github.com/user-attachments/assets/e5740713-8065-419b-8903-f1fe96b45f2b)
+
+---
+
 ## 🚀 Future Enhancements
 
 * Integrate AI-powered portfolio management

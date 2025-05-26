@@ -89,7 +89,7 @@ Python, scikit-learn, TensorFlow, PyTorch, Plotly Dash, Power BI, NLTK, Transfor
 
 ## 🙏 Acknowledgments
 
-Special thanks to my internship mentor for their constant guidance and valuable feedback. This experience significantly enhanced my data science expertise and practical understanding of financial analytics.
+Special thanks to my internship mentor and Infotact Solutions team for their constant guidance and valuable feedback. This experience significantly enhanced my data science expertise and practical understanding of financial analytics.
 
 ---
 

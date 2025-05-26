@@ -40,7 +40,7 @@ The project was developed as part of an internship and showcases skills in **Pyt
 
 
 
-🔍 Project Highlights:
+## 🔍 Project Highlights:
 
 ✅ Collected real-time BTC data from Binance & CoinGecko.
 

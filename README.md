@@ -1,6 +1,7 @@
 # 📊 Time Series Analysis with Cryptocurrency 
 
-### By: Mohitha Bandi
+### By:
+## Mohitha Bandi
 
 📧 Email: [mohitha12026@gmail.com](mailto:mohitha12026@gmail.com)
 
